@@ -2,7 +2,7 @@
 <img align="center" height="120" width="120" alt="gif-gustavo" src="src/emoji-gif-2.gif">
 
 ## | Sobre mim
-Olá, sou Gustavo, estudante de Sistemas de Informação apaixonado por tecnologias e tudo que há de novo. Sempre estou buscando aprimorar minhas habilidades e me manter atualizado com as novas tendências em tecnologia para fornecer a melhor experiência do usuário possível para os usuários finais. Também sou designer e sempre me identifiquei com a parte gráfica das coisas.
+Olá, sou Gustavo, estudante de Sistemas de Informação apaixonado por tecnologias e tudo que há de novo. Sempre estou buscando aprimorar minhas habilidades e me manter atualizado com as novas tendências em tecnologia para fornecer a melhor experiência do usuário possível para os usuários finais. Também sou UI/UX designer nas horas vagas e foi o que me fez começar a gostar do munndo da programação.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin/in/gustavoataidez)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ataidezgustavo@gmail.com)
@@ -21,5 +21,6 @@ Olá, sou Gustavo, estudante de Sistemas de Informação apaixonado por tecnolog
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bootstrap" height="54" width="54" src="https://img.icons8.com/color/512/bootstrap.png">
+  <img align="center" alt="php" height="44" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">
   <img align="center" alt="git" height="44" width="44" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
 </div>
