@@ -1,12 +1,11 @@
-## Olá! Eu sou o Gustavo.
-<img align="center" height="120" width="120" alt="gif-gustavo" src="src/emoji-gif-2.gif">
-
+# Olá, sou Gustavo.
 ## | Sobre mim
-Olá, sou Gustavo, estudante de Sistemas de Informação apaixonado por tecnologias e tudo que há de novo. Sempre estou buscando aprimorar minhas habilidades e me manter atualizado com as novas tendências em tecnologia para fornecer a melhor experiência do usuário possível para os usuários finais. Também sou UI/UX designer nas horas vagas e foi o que me fez começar a gostar do munndo da programação.
+Sou **Gustavo Ataide**, estudante de Sistemas de Informação pelo Instituto Federal de Alagoas. Um entusiasta da tecnologia e estou sempre buscando aprender o que há de novo. Tenho conhecimento em **Javascript, VUE.js, Python, Oracle (SQL), PHP, UI/UX Design e Git**, além de estar constantemente estudando outras áreas.
+
+Sou comunicativo, extrovertido e colaborativo, o que me permite trabalhar eficazmente em equipe. Estou sempre buscando aprimorar minhas habilidades, muitas vezes de forma autodidata, para acompanhar as tendências e fornecer a melhor experiência possível para o usuário final. Minhas experiências profissionais me ensinaram **a importância do crescimento profissional e pessoal.**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin/in/gustavoataidez)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ataidezgustavo@gmail.com)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gustavoataide)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5582999355730)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gustavoataidez)
 
@@ -17,8 +16,8 @@ Olá, sou Gustavo, estudante de Sistemas de Informação apaixonado por tecnolog
 ## | Tecnologias que utilizo
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vue" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png">
+  <img align="center" alt="SQL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168918.png">
   <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bootstrap" height="54" width="54" src="https://img.icons8.com/color/512/bootstrap.png">
   <img align="center" alt="php" height="44" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">
